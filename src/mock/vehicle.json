@@ -1,0 +1,14 @@
+[
+  {
+    "id": "2c90c009-6b27-4461-8de0-845493a2549a",
+    "plate": "ABC-1232",
+    "color": "pink",
+    "brand": "VW"
+  },
+  {
+    "id": "2c90c009-6b27-4461-1234-845493a25123",
+    "plate": "CBA-4321",
+    "color": "green",
+    "brand": "CHEVROLET"
+  }
+]
