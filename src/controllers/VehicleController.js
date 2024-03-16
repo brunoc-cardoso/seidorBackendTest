@@ -8,7 +8,7 @@ class VehicleController {
   }
 
   show(request, response) {
-    const { id } = request.query;
+    const { id } = request.params;
 
     const vehicle = VehiclesRepository.findById(id);
 
@@ -53,7 +53,7 @@ class VehicleController {
   }
 
   delete(request, response) {
-    const { id } = request.query;
+    const { id } = request.params;
 
     VehiclesRepository.delete(id);
 
