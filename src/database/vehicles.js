@@ -1,5 +1,5 @@
 import { randomUUID } from "node:crypto";
-import mockVehicle from "../mock/vehicle.json" assert { type: "json" };
+import mockVehicle from "../mock/vehicleMock.json" assert { type: "json" };
 
 class Vehicles {
   #vehicles = mockVehicle;
