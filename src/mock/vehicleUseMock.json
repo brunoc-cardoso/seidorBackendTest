@@ -1,0 +1,18 @@
+[
+  {
+    "id": "2c90c009-6b27-4461-8de0-098493a26666",
+    "startUseDate": "1710633172639",
+    "endUseDate": "",
+    "driverId": "2c90c009-6b27-4461-8de0-098493a21234",
+    "vehicleId": "2c90c009-6b27-4461-8de0-845493a2549a",
+    "reason": "daily use for deliveries"
+  },
+  {
+    "id": "2c90c009-6b27-4461-8de0-098493a25555",
+    "startUseDate": "1710633172639",
+    "endUseDate": "1710633187010",
+    "driverId": "2c90c009-6b27-4461-1234-843453a28765",
+    "vehicleId": "2c90c009-6b27-4461-1234-845493a25123",
+    "reason": "use for transporting people"
+  }
+]
